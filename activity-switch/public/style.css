@@ -1,0 +1,8 @@
+input[id="txtmonth"]
+{
+	width:30px;
+}
+button:hover
+{
+	width:20%;
+}
